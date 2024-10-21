@@ -25,5 +25,5 @@ There are 7 datasets included in the [`data`](./data/) folder for this project.
 * [`sat_2017.csv`](./data/sat_2017.csv): 2017 SAT Scores by State ([source](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/))
 * [`sat_2018.csv`](./data/sat_2018.csv): 2018 SAT Scores by State ([source](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/))
 * [`sat_2019.csv`](./data/sat_2019.csv): 2019 SAT Scores by State ([source](https://blog.prepscholar.com/average-sat-scores-by-state-most-recent))
-* [data/census_regions_and_divisions.csv] : State,Region and Division of the United States
+* [`scensus_regions_and_divisions.csv`](./data/census_regions_and_divisions.csv) : State,Region and Division of the United States
 
